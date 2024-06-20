@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Metaverse tech
 - 📫 How to reach me: mdkamiljava@gmail.com
 - 😄 Pronouns: mohamed kamil
-- ⚡ Fun fact: I am not available on instagram and 
+- ⚡ Fun fact: I am not available on instagram!
+- Currently also doing arduino projects... 
 
 <!---
 Mohamedkamil06/Mohamedkamil06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
